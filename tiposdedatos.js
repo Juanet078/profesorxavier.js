@@ -28,3 +28,5 @@ const car = cars[2];
 const date = new Date("2021-03-25");
 console.log(date.getDay());
 console.log(date.getFullYear());
+
+let juan = "juan"
