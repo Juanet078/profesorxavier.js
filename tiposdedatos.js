@@ -30,3 +30,5 @@ console.log(date.getDay());
 console.log(date.getFullYear());
 
 let juan = "juan"
+
+juan = "Oju"
